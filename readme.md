@@ -4,7 +4,7 @@
 </p>
 <a href="https://github.com/berstend"><img src="https://i.imgur.com/B9KXKGS.jpg" height="290px" align="right" /></a>
 <p align="center">
-  <a href="https://github.com/berstend"><img src="https://github-readme-stats.vercel.app/api?username=berstend&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true&title_color=0053a0&hide_title=true" /></a>
+  <a href="https://github.com/berstend"><img src="https://github-readme-stats.vercel.app/api?username=berstend&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true&title_color=000000&hide_title=true&show_icons=false" /></a>
 </p>
 
 <hr>
