@@ -1,7 +1,7 @@
 
 <h1>b̡͉̙̞͙͔͔̺̉͌̽̽͂̿͂͝erstend͔͝</h1>
 <p align="right">
-  <code>zzz</code>
+  <code>Full-stack hacker / entrepreneur</code>
 </p>
 
 <p align="center">
