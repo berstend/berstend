@@ -1,7 +1,7 @@
 <h1>b̡͉̙̞͙͔͔̺̉͌̽̽͂̿͂͝erstend͔͝</h1>
 
-<p align="left">
-  &nbsp;   &nbsp;  &nbsp;<code align="right">Full-stack hacker / entrepreneur</code>
+<p align="right">
+ <code align="right">Full-stack hacker / entrepreneur</code>
 </p>
 <a href="https://github.com/berstend/straightforward"><img src="https://i.imgur.com/B9KXKGS.jpg" height="320px" align="right" /></a>
 <p align="center">
