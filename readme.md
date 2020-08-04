@@ -11,6 +11,6 @@
 
 _Guide to emailing me:_
 
-- ✅ Saying thanks (who doesn't like that 😄)
+- ✅ Just saying thanks (who doesn't like that 😄)
 - ✅ Inquiries regarding consulting work or paid support
 - ❌ Asking for free support that belongs in public issues
