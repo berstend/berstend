@@ -1,6 +1,6 @@
 <h1>b̡͉̙̞͙͔͔̺̉͌̽̽͂̿͂͝erstend͔͝</h1>
 <p align="right">
- <code align="right">Full-stack hacker / entrepreneur</code>
+ <code align="right">Full-stack entrepreneur with a passion for open-source</code>
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://i.imgur.com/B9KXKGS.jpg" height="290px" align="right" /></a>
 <p align="center">
@@ -15,8 +15,5 @@ _Guide to emailing me:_
 - ✅ Consulting (250USD/hr): I'm usually busy but feel free to ask
 - ❌ Asking for free support that belongs in public issues or stackoverflow
 
-### Donations
 
-If you wish to show your appreciation for my open-source work through monetary means:
-[bitcoin](https://pay.btc.horse/#bitcoin:387F5hQsKezdXN64pJTKEtqjZUCwEZiTcX) / [ethereum](https://pay.btc.horse/#ethereum:0xa1b7e3e4e03c2f45a1822d7d32e2d945df9f150f) / [paypal](https://tinyurl.com/paypal-berstend
-)
+If my open-source work has been useful to you feel free to [buy me a coffee](https://www.buymeacoffee.com/brstnd). :-)
